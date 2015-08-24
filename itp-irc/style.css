@@ -141,12 +141,20 @@ p{
 	width:707px;
 	margin: 10px auto;
 }
+#chanswrapper{
+	width:900px;
+	margin: 10px auto;
+
+}
 #intro{
 	font-size: 24px;
 	text-align: center;
 	line-height: 30px;
 }
-
+.chanimg{
+	width:448px;
+	margin: 0 auto;
+}
 #irc1{
 	float:left;
 	padding-left: 15px;

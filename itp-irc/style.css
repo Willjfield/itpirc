@@ -67,6 +67,16 @@ p{
 	text-align: center;
 }
 
+h2{
+	background: #8A458A;
+	font-family: helvetica;
+	font-size: 32px;
+	padding: 5px;
+	color: white;
+	width:100%;
+	text-align: center;
+}
+
 #h2{
 	margin: 0 auto 0 auto;
 	font-size: 24px;
@@ -89,6 +99,20 @@ p{
 	font-size: 12px;
 	left:0px;
 	right:0px;
+}
+#options{
+	width:90%;
+	margin:0 auto;
+}
+.anOption{
+	display: inline-block;
+	width:30%;
+	background: #530E53;
+	text-align: center;
+	font-size: 12px;
+	left:0px;
+	right:0px;
+	margin:0 20px;
 }
 #l337{
 	float: left;
@@ -130,6 +154,8 @@ p{
 	background: #8A458A;
 }
 .textDiv{
+	margin-top: 20px;
+	margin-bottom: 20px;
 	padding-left:15%;
 	padding-right: 15%;
 	padding-top:1%;

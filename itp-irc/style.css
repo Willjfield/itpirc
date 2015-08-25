@@ -107,12 +107,16 @@ h2{
 .anOption{
 	display: inline-block;
 	width:30%;
-	background: #530E53;
+	background:#530E53;
 	text-align: center;
 	font-size: 12px;
 	left:0px;
 	right:0px;
-	margin:0 20px;
+	margin:10px 20px;
+}
+.btn:hover{
+	cursor:pointer;
+	background: rgb(158,89,158);
 }
 #l337{
 	float: left;
